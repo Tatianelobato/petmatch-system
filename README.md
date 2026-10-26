@@ -52,7 +52,7 @@ Current Phase: \*\*1st Semester (Fundamentals \& Requirements)\*\*
 
 \---
 
-✒️ \*\*Developed by:\*\* \[Your Name] - Software Engineering Undergraduate
+✒️ \*\*Developed by:\*\* \Tatiane Lobato - Software Engineering Undergraduate
 
 
 
